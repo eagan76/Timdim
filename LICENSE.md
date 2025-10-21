@@ -2,8 +2,7 @@
 
 This license may be used freely by anyone for their own projects, provided they modify it to reflect their own copyright ownership.
 
-Copyright (c) 2025 Tyler Eagan
-All rights reserved.
+Copyright (c) 2025 Tyler Eagan (eagan76), All rights reserved.
 
 ---
 
