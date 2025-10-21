@@ -84,11 +84,20 @@ The copyright holder, may release updated versions of this license to clarify te
 
 This license and any updates thereof apply to both the original project and any derivative works based upon it.
 
-- Existing derivative works or projects that do not incorporate code, assets, or other materials from this project are **not required to adopt updated license versions**.
-- Any derivative work or project that actively incorporates code, assets, or other materials from this project **must conform to the terms of the most current version of this license** as it applies to the incorporated materials.
-- Contributors who have previously contributed code or other substantial materials to this project **must provide verifiable proof of prior contribution** in order for their contributions to be included in any derivative work.
-- Compliance with this clause does not obligate existing derivative works to adopt new license versions beyond what is required for incorporation of updated code or assets from this project.
-- By using, distributing, or modifying code or assets from this project, all such users agree to conform to the license terms as described herein.
+ If the license of this project is updated to a new version, the license may only be updated to a new version of this license and **may not be changed to any other license**, including but not limited to MIT, GPL, or similar licenses.
+- All contributors who have previously contributed code or other substantial materials, including those whose contributions have since been removed, must be contacted and must agree to the license update.
+- Contributors who do not provide a response within **365 days** of being contacted shall **not be required** to agree to the license update, and the project may proceed under the updated license without their explicit consent.
+
+## 9. Notice of Violation and Legal Action
+
+If any person or entity violates this license, the copyright holder, shall first provide a written notice describing the nature of the violation and requesting compliance.
+
+The recipient of such notice shall have **62 days** from the date of receipt to remedy the violation described in the notice.
+
+Any additional or separate violations of this license discovered during the 62-day notice period shall be considered part of the original notice and included within the same 62-day compliance period.
+
+Legal action to enforce this license **may not be pursued** if the recipient has not been provided such notice. Legal action may only be initiated if the recipient **fails to comply within the 62-day period** for all violations included in the notice.
+
 
 ---
 
