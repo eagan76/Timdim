@@ -2,7 +2,8 @@
 
 This license may be used freely by anyone for their own projects, provided they modify it to reflect their own copyright ownership.
 
-Copyright (c) 2025 Tyler Eagan (eagan76), All rights reserved.
+Copyright (c) Tyler Eagan, 
+  All rights reserved.
 
 ---
 
@@ -33,7 +34,8 @@ Only the original copyright holder, may:
 - License it commercially, or
 - Receive any form of monetary or material compensation related to it.
 
-All others are strictly prohibited from engaging in any activity that results in **financial gain** or **commercial advantage** derived from this software.
+All others are strictly prohibited from engaging in any activity that results in **financial gain** or 
+**commercial advantage** derived from this software.
 
 ---
 
@@ -68,6 +70,13 @@ This means:
 - You may use AI/ML **inside this game’s development** (e.g., NPC logic, procedural generation).
 - You may **not** use or allow use of any part of this software, its code, or assets to train, refine, or operate an AI model or dataset intended for unrelated or external purposes, even with attribution or credit.
 
+### **Code Generation Restriction:**
+  
+The use of artificial intelligence (AI), machine learning systems, or automated code generation tools to produce or modify any source code within projects governed by this License is strictly prohibited.
+AI systems may only be used for non-code purposes, such as generating commit messages, documentation, or README files.
+This restriction is intended to prevent the introduction of code derived from illegally scraped or copyrighted material and to maintain the integrity of the codebase under this License.
+
+
 Any violation of this clause constitutes an immediate termination of all rights granted under this license.
 
 ## 7. Governing Law and Enforcement
@@ -82,7 +91,7 @@ If necessary, this license may be enforced in the violator’s local jurisdictio
 
 The license creator, may release updated versions of this license to clarify terms, close loopholes, or address evolving legal circumstances.
 
-This license and any updates thereof apply to both the original project and any derivative works based upon it.
+When updates are made to this license projects may choose to upgrade to the new version and any updates thereof apply to both the original project and any derivative works based upon it.
 
  If the license of this project is updated to a new version, the license may only be updated to a new version of this license and **may not be changed to any other license**, including but not limited to MIT, GPL, or similar licenses.
 - All contributors who have previously contributed code or other substantial materials, including those whose contributions have since been removed, must be contacted and must agree to the license update.
@@ -102,4 +111,3 @@ Legal action to enforce this license **may not be pursued** if the recipient has
 ---
 
 *End of License.*
-
